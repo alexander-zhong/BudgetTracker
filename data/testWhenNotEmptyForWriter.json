@@ -1,0 +1,22 @@
+{"accountList": [{
+    "password": "CPSC210",
+    "incomeList": [{
+        "date": "2021-01-01",
+        "name": "Microsoft",
+        "value": 1000
+    }],
+    "categoryList": [
+        {"category": "Essentials"},
+        {"category": "Personal"},
+        {"category": "Social"},
+        {"category": "Career"},
+        {"category": "UBC"}
+    ],
+    "expenseList": [{
+        "date": "2020-01-01",
+        "name": "Computer",
+        "category": "Essentials",
+        "value": 1000
+    }],
+    "username": "Joe"
+}]}
